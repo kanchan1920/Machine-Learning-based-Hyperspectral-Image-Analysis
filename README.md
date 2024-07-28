@@ -1,0 +1,2 @@
+# Machine-Learning-based-Hyperspectral-Image-Analysis
+  WE have used Clustering technique as DBSCAN, K-mean, BIRCH, Hierarchical, GMM, Evolutionary- method Based image segmentation and find the best result on Multi-Level Genetic Algorithm on complex hyperspectral datasets to extracting valuable information for data-driven. To contribute in applications of agriculture, Radar Imagery &amp; Crop Disease.
